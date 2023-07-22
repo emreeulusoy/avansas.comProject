@@ -1,0 +1,71 @@
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+*.xml
+out/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# NetBeans
+nbproject/private/
+build/
+
+# IntelliJ IDEA
+*.log
+*.diff
+*.ips
+*.iws
+.idea/
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Gradle
+.gradle/
+build/
+
+# Compiled Java classes
+*.class
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+*.log.*
+
+# Lock files
+*.lock
+
+# IDE-specific files
+*.idea/workspace.xml
+*.idea/tasks.xml
+*.idea/dictionaries
+*.idea/vcs.xml
+*.idea/jsLibraryMappings.xml
+.idea_modules/
+*.iml
+
+# Maven Wrapper
+.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
